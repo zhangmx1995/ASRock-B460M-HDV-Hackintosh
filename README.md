@@ -14,7 +14,7 @@
 | Wireless Card  |                  BCM94360CS2                   |
 
 
-![](https://pic.downk.cc/item/5fa512551cd1bbb86ba77ec9.png "")
+![](https://pic.downk.cc/item/5fa517121cd1bbb86ba890e3.png "")
 
 
 
