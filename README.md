@@ -1,5 +1,6 @@
 # ASRock-B460M-HDV-Hackintosh
 ## open core version:0.6.2
+
 ## Detail of my computer
 
 | Specifications |                     Detail                     |
