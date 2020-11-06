@@ -1,5 +1,5 @@
 # ASRock-B460M-HDV-Hackintosh
-##open core version:0.6.2
+## open core version:0.6.2
 ## Detail of my computer
 
 | Specifications |                     Detail                     |
@@ -17,6 +17,7 @@
 ![](https://pic.downk.cc/item/5fa512551cd1bbb86ba77ec9.png "")
 
 
+
 ## What works:
 
 - Intel UHD Graphins 630
@@ -31,8 +32,11 @@
 
 - Any other issues you may have can be feed back to me in Issues
 
+
+
 Please change MLB, SystemSerialNumber, SystemUUID into your code:
 
+```
 <dict>
     <key>AdviseWindows</key>
     <false/>
@@ -49,3 +53,4 @@ Please change MLB, SystemSerialNumber, SystemUUID into your code:
     <key>SystemUUID</key>
     <string>xxxxxxxx-xxxxx-xxxxx-xxxx-xxxxxxxx</string>
 </dict>
+```
