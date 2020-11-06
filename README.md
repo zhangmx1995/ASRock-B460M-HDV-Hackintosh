@@ -8,9 +8,9 @@
 | System         | macOS Catalina 10.15.x / macOS Big Sur 11 Beta |
 | CPU            |          Intel Core i5 - 10400(6C12T)          |
 | Memory         |               2*8GB DDR4 2666MHz               |
-| SSD            |                 WD—SN550 500G                  |
+| SSD            |                 WD-SN550 500G                  |
 | Graphics       |  AMD Radeon RX590 8G / Intel UHD Graphics 630  |
-| Audio          |         Realtek ALC887 AppleALC ID=21          |
+| Audio          |         Realtek ALC887 AppleALC ID=12          |
 | Wireless Card  |                  BCM94360CS2                   |
 
 
